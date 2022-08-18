@@ -45,9 +45,6 @@
               animation-name: GlowingBorder;  
               animation-duration: 6s;
               animation-iteration-count: infinite;
-              margin-top: 65px;
-              margin-left: 800px;
-
           }
 
           @keyframes GlowingBorder {
